@@ -19,11 +19,11 @@ const Header = ({ onNavigate }: HeaderProps) => {
   const [rotatingTextIndex, setRotatingTextIndex] = useState(0);
   
   const phrases = [
-    "Innovative Engineer", 
-    "Passionate Programmer", 
-    "Creative Developer",
-    "AI/ML Enthusiast"
-  ];
+  "Software Developer",
+  "Full Stack Learner",
+  "Problem Solver",
+  "Tech Enthusiast"
+];
   
   useEffect(() => {
     const handleScroll = () => {
