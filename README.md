@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shreyas’s Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://portfolio-website-shreyas.vercel.app/)
@@ -32,3 +33,7 @@ A sleek, responsive portfolio website showcasing my projects, skills, and contac
   &nbsp;&nbsp;
   <img src="./screenshots/projects.png" alt="Projects Section Screenshot" width="300" />
 </div>
+=======
+# Portfolio-website
+Personal portfolio website showcasing my projects, skills, and experience as a developer.
+>>>>>>> f1b3d45128a9b9391aa6868acfa8e1420642ccb6
