@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { Mail, FileText, Linkedin } from "lucide-react";
-import resumePdf from "../assets/Resume_Shreyas.pdf";
+import resumePdf from "../assets/Resume_Ganesh.pdf";
 
 interface HeroSectionProps {
   onContactClick: () => void;
@@ -45,7 +45,7 @@ const HeroSection = ({ onContactClick }: HeroSectionProps) => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.8 }}
               >
-                <span className="inline-block">I'm Shreyas</span>
+                <span className="inline-block">I'm Ganesh</span>
               </motion.h2>
               
               <motion.div 
@@ -67,7 +67,7 @@ const HeroSection = ({ onContactClick }: HeroSectionProps) => {
               transition={{ duration: 0.6, delay: 1.2 }}
             >
               <motion.a
-                href="mailto:shreyasmakwana.smh@gmail.com"
+                href="mailto:Ganeshmakwana.smh@gmail.com"
                 className="transform transition-transform duration-300 hover:scale-105 bg-primary text-background px-7 py-3.5 text-base rounded-lg shadow-lg flex items-center space-x-2.5"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.98 }}
@@ -91,7 +91,7 @@ const HeroSection = ({ onContactClick }: HeroSectionProps) => {
               </motion.a>
               
               <motion.a
-                href="https://www.linkedin.com/in/shreyas-makwana-472a4a258/"
+                href="https://www.linkedin.com/in/Ganesh-makwana-472a4a258/"
                 target="_blank" 
                 rel="noopener"
                 className="transform transition-transform duration-300 hover:scale-105 bg-[#0077B5] text-background px-7 py-3.5 text-base rounded-lg shadow-lg flex items-center space-x-2.5"

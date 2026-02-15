@@ -10,7 +10,7 @@ const Footer = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          © {new Date().getFullYear()} Shreyas. All rights reserved.
+          © {new Date().getFullYear()} Ganesh. All rights reserved.
         </motion.p>
         <motion.p 
           className="text-primary/60 text-sm mt-2"
@@ -18,7 +18,7 @@ const Footer = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          Made with ❤️ by Shreyas
+          Made with ❤️ by Ganesh
         </motion.p>
       </div>
     </footer>

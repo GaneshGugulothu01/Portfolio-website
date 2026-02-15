@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Shreyas’s Portfolio Website
+# Ganesh’s Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://portfolio-website-shreyas.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://portfolio-website-Ganesh.vercel.app/)
 
 A sleek, responsive portfolio website showcasing my projects, skills, and contact information.
 

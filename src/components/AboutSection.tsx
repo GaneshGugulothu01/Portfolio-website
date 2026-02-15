@@ -122,7 +122,7 @@ const AboutSection = forwardRef<HTMLElement>((props, ref) => {
             <div className="aspect-[2/1] overflow-hidden rounded-xl shadow-xl bg-primary/5 flex items-center justify-center">
               <img 
                 src={profileImage} 
-                alt="Shreyas Makwana" 
+                alt="Ganesh Makwana" 
                 className="w-full h-full object-cover"
               />
             </div>

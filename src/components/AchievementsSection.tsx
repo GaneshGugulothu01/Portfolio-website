@@ -10,14 +10,14 @@ const achievements = [
     description: "Achieved 3-Star CodeChef rating (Rank 1687) demonstrating strong algorithmic skills and competitive programming expertise",
     year: "2024",
     icon: <Trophy className="w-10 h-10 text-yellow-400" />,
-    link: "https://www.codechef.com/users/shreyas707"
+    link: "https://www.codechef.com/users/Ganesh707"
   },
   {
     title: "LeetCode 1600+ Rating",
     description: "Achieved 1600+ LeetCode rating with 300+ problems solved, showcasing proficiency in data structures and algorithms",
     year: "2024",
     icon: <Code className="w-10 h-10 text-blue-400" />,
-    link: "https://leetcode.com/shreyas707"
+    link: "https://leetcode.com/Ganesh707"
   },
   {
     title: "Campus Hackathon 2nd Place",

@@ -100,8 +100,8 @@ const ContactSection = forwardRef<HTMLElement>((props, ref) => {
             <div className="w-12 h-12 bg-primary/5 rounded-full flex items-center justify-center text-accent mr-3">
               <Mail className="h-6 w-6" />
             </div>
-            <a href="mailto:shreyasmakwana.smh@gmail.com" className="text-primary hover:text-accent transition-colors text-lg">
-              shreyasmakwana.smh@gmail.com
+            <a href="mailto:Ganeshmakwana.smh@gmail.com" className="text-primary hover:text-accent transition-colors text-lg">
+              Ganeshmakwana.smh@gmail.com
             </a>
           </motion.div>
           
@@ -112,9 +112,9 @@ const ContactSection = forwardRef<HTMLElement>((props, ref) => {
             animate={isVisible ? "show" : "hidden"}
           >
             {[
-              { icon: <Github className="h-7 w-7" />, href: "https://github.com/Shreyas707Makwana", label: "GitHub" },
-              { icon: <Linkedin className="h-7 w-7" />, href: "https://www.linkedin.com/in/shreyas-makwana-472a4a258/", label: "LinkedIn" },
-              { icon: <Instagram className="h-7 w-7" />, href: "https://www.instagram.com/shreyas_._makwana?igsh=MWsxbnFjemwxNTJsdw==", label: "Instagram" },
+              { icon: <Github className="h-7 w-7" />, href: "https://github.com/Ganesh707Makwana", label: "GitHub" },
+              { icon: <Linkedin className="h-7 w-7" />, href: "https://www.linkedin.com/in/Ganesh-makwana-472a4a258/", label: "LinkedIn" },
+              { icon: <Instagram className="h-7 w-7" />, href: "https://www.instagram.com/Ganesh_._makwana?igsh=MWsxbnFjemwxNTJsdw==", label: "Instagram" },
             ].map((social, index) => (
               <motion.a
                 key={index}
